@@ -1,6 +1,6 @@
 body
 {
-	font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-image: url(../img/back1.jpg);
   font-size: 20px;
   display: flex;
@@ -8,9 +8,9 @@ body
   justify-content:center;
 
 }
+
 div{
   display: block;
- 
 }
 
 h1{
@@ -92,20 +92,18 @@ h2{
   color: #569fff;
 }
 .name{
-  
-    font-size: 48px;
-    font-weight: bold
- 
+  font-size: 48px;
+  font-weight: bold
 }
 .opis {
-    font-weight: bold;
-    font-size: 25px;
-    line-height: 1;
-    border-bottom: solid #569fff 3px;
-    display: inline-block;
-    padding: 0 5px 5px 5px;
-    margin-bottom: 15px;
-    margin-top: -30px;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 1;
+  border-bottom: solid #569fff 3px;
+  display: inline-block;
+  padding: 0 5px 5px 5px;
+  margin-bottom: 15px;
+  margin-top: -30px;
 }
 
 .maint{
