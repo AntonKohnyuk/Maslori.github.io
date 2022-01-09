@@ -1,0 +1,144 @@
+body
+{
+	font-family: 'Open Sans', sans-serif;
+  background-image: url(../img/back1.jpg);
+  font-size: 20px;
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+
+}
+div{
+  display: block;
+ 
+}
+
+h1{
+  margin: auto;
+  padding: 30px;
+  width: 80%;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  border-bottom: solid #569fff 3px;
+}
+
+h2{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.spis{
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  margin: auto;
+}
+
+.container {
+  width: 97%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.m {
+  margin-top: 30px;
+}
+
+.s1
+{
+  background: linear-gradient(to right, #569fff 40%, #ffffff 40%);
+  padding: 30px 30px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  flex-wrap: nowrap;
+}
+
+.s2{
+  padding: 30px 30px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction:column;
+  justify-content: flex-end;
+  padding: auto;
+}
+
+.Main{
+  font-size: 60px;
+  color: #ffffff;
+}
+
+.img {
+  height: 451px;
+  max-width: 340px;
+}
+
+.text{
+  margin-top: 50px;
+  margin-left: 15px;
+  width: 500px;
+}
+
+.fam{
+  margin-top: -30px;
+  font-size: 48px;
+  font-weight: bold;
+  color: #569fff;
+}
+.name{
+  
+    font-size: 48px;
+    font-weight: bold
+ 
+}
+.opis {
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1;
+    border-bottom: solid #569fff 3px;
+    display: inline-block;
+    padding: 0 5px 5px 5px;
+    margin-bottom: 15px;
+    margin-top: -30px;
+}
+
+.maint{
+  line-height: 19px;
+  letter-spacing: 0.01em;
+}
+
+.Otvet{
+  margin: 60px;
+  padding: 10px;
+}
+
+.Contacts_niz{
+  background-image: url(../img/back2.jpg);
+  margin-top: 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.contact1{
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.contact2{
+  display: flex;
+  justify-content:center;
+  margin: auto;
+}
+
+.img_c{
+  height: 50px;
+  width: 50px;
+}
